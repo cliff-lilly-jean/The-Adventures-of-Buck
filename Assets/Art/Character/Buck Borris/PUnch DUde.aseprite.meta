@@ -1,0 +1,2236 @@
+fileFormatVersion: 2
+guid: d1779b39c6411fd4b9e1f8bf2fff154c
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: PUnch DUde_Frame_17
+    originalName: 
+    pivot: {x: 0.27027032, y: -5.294118}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 188
+      y: 200
+      width: 37
+      height: 17
+    spriteID: 4092bef3baf56b24e96d6ed141a4ff1b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 188, y: 200}
+  - name: PUnch DUde_Frame_18
+    originalName: 
+    pivot: {x: 0.2564103, y: -5.294118}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 144
+      width: 39
+      height: 17
+    spriteID: 8c887734d78b0504884bb4efe720f4e4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 192, y: 144}
+  - name: PUnch DUde_Frame_20
+    originalName: 
+    pivot: {x: 0.5555557, y: -4.181818}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 58
+      y: 306
+      width: 18
+      height: 22
+    spriteID: 598e235808c92ac46a9e29a4fac6df3d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 58, y: 306}
+  - name: PUnch DUde_Frame_21
+    originalName: 
+    pivot: {x: 0.5555557, y: -3.9999998}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 306
+      width: 18
+      height: 23
+    spriteID: ccf3baaa5c6686f4589d2aa869838ec6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 32, y: 306}
+  - name: PUnch DUde_Frame_50
+    originalName: 
+    pivot: {x: 0.2564103, y: -5.294118}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 189
+      y: 172
+      width: 39
+      height: 17
+    spriteID: 10004230e8edff142a02714375024645
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 189, y: 172}
+  - name: PUnch DUde_Frame_0
+    originalName: 
+    pivot: {x: 0.5555557, y: -4.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 233
+      y: 200
+      width: 18
+      height: 20
+    spriteID: 8af909d7aa6e3be4882bc9cc24e2721f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 233, y: 200}
+  - name: PUnch DUde_Frame_1
+    originalName: 
+    pivot: {x: 0.5555557, y: -4.2857146}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 214
+      y: 306
+      width: 18
+      height: 21
+    spriteID: 99f5ae8ba395b894992ce847ecd192b6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 214, y: 306}
+  - name: PUnch DUde_Frame_2
+    originalName: 
+    pivot: {x: 0.5555557, y: -4.2857146}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 338
+      width: 18
+      height: 21
+    spriteID: d52f39e8a01ac1a4c94370d34b2d2e7f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 338}
+  - name: PUnch DUde_Frame_3
+    originalName: 
+    pivot: {x: 0.5555557, y: -4.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 338
+      width: 18
+      height: 20
+    spriteID: db7b86900c12297498aab709604b2a64
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 160, y: 338}
+  - name: PUnch DUde_Frame_4
+    originalName: 
+    pivot: {x: 0.5555557, y: -4.736842}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 134
+      y: 367
+      width: 18
+      height: 19
+    spriteID: dbcad7131fcabbb468acba90264d8a3a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 134, y: 367}
+  - name: PUnch DUde_Frame_5
+    originalName: 
+    pivot: {x: 0.5555557, y: -5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 134
+      y: 395
+      width: 18
+      height: 18
+    spriteID: 35aa8a7eb640fa141b776689c2ab1c50
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 134, y: 395}
+  - name: PUnch DUde_Frame_6
+    originalName: 
+    pivot: {x: 0.5555557, y: -4.090909}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 84
+      y: 306
+      width: 18
+      height: 22
+    spriteID: 55b7eea19165b3d4382eee1680578c4e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 84, y: 306}
+  - name: PUnch DUde_Frame_7
+    originalName: 
+    pivot: {x: 0.5555557, y: -4.090909}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 110
+      y: 306
+      width: 18
+      height: 22
+    spriteID: ac711883289e1de45a2d25d69ba918a8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 110, y: 306}
+  - name: PUnch DUde_Frame_8
+    originalName: 
+    pivot: {x: 0.5555557, y: -4.55}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 186
+      y: 338
+      width: 18
+      height: 20
+    spriteID: d8eb7f3d0499f964eab417ad1f79702d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 186, y: 338}
+  - name: PUnch DUde_Frame_9
+    originalName: 
+    pivot: {x: 0.5555557, y: -5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 395
+      width: 18
+      height: 18
+    spriteID: 7485cae233153d24dab4cd6fc262cccd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 160, y: 395}
+  - name: PUnch DUde_Frame_10
+    originalName: 
+    pivot: {x: 0.5555557, y: -4.090909}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 136
+      y: 306
+      width: 18
+      height: 22
+    spriteID: e2511c673d724664c8a2e0399249011e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 136, y: 306}
+  - name: PUnch DUde_Frame_11
+    originalName: 
+    pivot: {x: 0.5555557, y: -4.6}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 212
+      y: 338
+      width: 18
+      height: 20
+    spriteID: 929c74d2c0b19f04482d0e776cf8657c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 212, y: 338}
+  - name: PUnch DUde_Frame_12
+    originalName: 
+    pivot: {x: 0.5555557, y: -4.7894735}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 367
+      width: 18
+      height: 19
+    spriteID: f3cf0855569f43648a18be6419a67306
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 160, y: 367}
+  - name: PUnch DUde_Frame_13
+    originalName: 
+    pivot: {x: 0.5555557, y: -4.736842}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 186
+      y: 367
+      width: 18
+      height: 19
+    spriteID: 09bf86cf32a2c31448a79a0e3c716613
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 186, y: 367}
+  - name: PUnch DUde_Frame_14
+    originalName: 
+    pivot: {x: 0.707317, y: -4.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 228
+      width: 82
+      height: 20
+    spriteID: 310e6bad8a475054780a0fe5c714e8cd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 228}
+  - name: PUnch DUde_Frame_15
+    originalName: 
+    pivot: {x: 0.6904762, y: -4.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 97
+      y: 172
+      width: 84
+      height: 20
+    spriteID: c6219c7f188f26a4aa0409728b2e1509
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 97, y: 172}
+  - name: PUnch DUde_Frame_16
+    originalName: 
+    pivot: {x: 0.67441857, y: -4.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 145
+      y: 116
+      width: 86
+      height: 20
+    spriteID: c1779c5aa6c2fd8478e3ccad95770df8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 145, y: 116}
+  - name: PUnch DUde_Frame_19
+    originalName: 
+    pivot: {x: 0.52631587, y: -5.294118}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 212
+      y: 395
+      width: 19
+      height: 17
+    spriteID: b572efb11af1627478485aa8212602f0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 212, y: 395}
+  - name: PUnch DUde_Frame_22
+    originalName: 
+    pivot: {x: 0.5000001, y: -3.75}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 306
+      width: 20
+      height: 24
+    spriteID: 33f83a4111fc1e94da0c1805aa5e93ac
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 306}
+  - name: PUnch DUde_Frame_23
+    originalName: 
+    pivot: {x: 0.5555557, y: -5.294118}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 133
+      y: 281
+      width: 18
+      height: 17
+    spriteID: 19a54136c8bff55419d0140d02432976
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 133, y: 281}
+  - name: PUnch DUde_Frame_24
+    originalName: 
+    pivot: {x: 0.5555557, y: -5.294118}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 159
+      y: 281
+      width: 18
+      height: 17
+    spriteID: 3a7e21efdaf4a9941aa91b2588850eff
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 159, y: 281}
+  - name: PUnch DUde_Frame_25
+    originalName: 
+    pivot: {x: 0.52631587, y: -5.294118}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 79
+      y: 281
+      width: 19
+      height: 17
+    spriteID: 0da208437c017314f9005765779331df
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 79, y: 281}
+  - name: PUnch DUde_Frame_26
+    originalName: 
+    pivot: {x: 0.5555557, y: -4.090909}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 162
+      y: 306
+      width: 18
+      height: 22
+    spriteID: dc72bdad28637af4092a99076b56b0ae
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 162, y: 306}
+  - name: PUnch DUde_Frame_27
+    originalName: 
+    pivot: {x: 0.58823544, y: -5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 28
+      y: 422
+      width: 17
+      height: 18
+    spriteID: 3da409d858ddbd6439292ac01d7b254d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 28, y: 422}
+  - name: PUnch DUde_Frame_28
+    originalName: 
+    pivot: {x: 0.5555557, y: -4.736842}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 212
+      y: 367
+      width: 18
+      height: 19
+    spriteID: 885b4b6852c89b44abb204eba661abd2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 212, y: 367}
+  - name: PUnch DUde_Frame_29
+    originalName: 
+    pivot: {x: 0.5555557, y: -4.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 367
+      width: 18
+      height: 20
+    spriteID: 0daff7d49a353d14485fccf1f464dfd9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 367}
+  - name: PUnch DUde_Frame_30
+    originalName: 
+    pivot: {x: -2.0000038, y: -102}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 245
+      y: 256
+      width: 1
+      height: 1
+    spriteID: 71bf8fb2fbc6c39409dcd4912afaa09b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 245, y: 256}
+  - name: PUnch DUde_Frame_31
+    originalName: 
+    pivot: {x: 0.5555557, y: -4.090909}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 188
+      y: 306
+      width: 18
+      height: 22
+    spriteID: b7d1243ac7e55204fb4436aa15921692
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 188, y: 306}
+  - name: PUnch DUde_Frame_32
+    originalName: 
+    pivot: {x: 0.5555557, y: -5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 186
+      y: 395
+      width: 18
+      height: 18
+    spriteID: 2b8090693940e3a41b9a508f29df8ef9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 186, y: 395}
+  - name: PUnch DUde_Frame_33
+    originalName: 
+    pivot: {x: 0.5555557, y: -4.736842}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 395
+      width: 18
+      height: 19
+    spriteID: 4b8d32bf06a6b7c4eb09d450b168980d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 395}
+  - name: PUnch DUde_Frame_34
+    originalName: 
+    pivot: {x: 0.5555557, y: -4.2857146}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 30
+      y: 338
+      width: 18
+      height: 21
+    spriteID: e03c3c9e474d799469c044dadedd0e0b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 30, y: 338}
+  - name: PUnch DUde_Frame_35
+    originalName: 
+    pivot: {x: 0.6764706, y: -5.294118}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 256
+      width: 34
+      height: 17
+    spriteID: 3b959ec86990a3b4998c76771a7eaba1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 256}
+  - name: PUnch DUde_Frame_36
+    originalName: 
+    pivot: {x: 0.42424238, y: -5.294118}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 46
+      y: 256
+      width: 33
+      height: 17
+    spriteID: 4e1af5b4d1820044c947d95765291184
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 46, y: 256}
+  - name: PUnch DUde_Frame_37
+    originalName: 
+    pivot: {x: 0.4193549, y: -5.294118}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 167
+      y: 256
+      width: 31
+      height: 17
+    spriteID: 87326eb638b6bf749b43a90f8a620ef9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 167, y: 256}
+  - name: PUnch DUde_Frame_38
+    originalName: 
+    pivot: {x: 0.45161283, y: -5.294118}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 206
+      y: 256
+      width: 31
+      height: 17
+    spriteID: afc0ec2bb8b872144b8284967275b550
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 206, y: 256}
+  - name: PUnch DUde_Frame_39
+    originalName: 
+    pivot: {x: 0.4642858, y: -5.294118}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 43
+      y: 281
+      width: 28
+      height: 17
+    spriteID: d26e23500c10d774f895154d10329c2e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 43, y: 281}
+  - name: PUnch DUde_Frame_40
+    originalName: 
+    pivot: {x: 0.6451612, y: -5.294118}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 281
+      width: 31
+      height: 17
+    spriteID: ef9804cfc08cfae4f8ddcce99ee6dc6c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 281}
+  - name: PUnch DUde_Frame_41
+    originalName: 
+    pivot: {x: 0.65625, y: -5.294118}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 87
+      y: 256
+      width: 32
+      height: 17
+    spriteID: d0ca4cb256d95eb4faeac7a0288bcacd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 87, y: 256}
+  - name: PUnch DUde_Frame_42
+    originalName: 
+    pivot: {x: 0.68750006, y: -5.294118}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 127
+      y: 256
+      width: 32
+      height: 17
+    spriteID: c7572d106c5dce2468405ef778f7a10e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 127, y: 256}
+  - name: PUnch DUde_Frame_43
+    originalName: 
+    pivot: {x: 0.4360902, y: -4.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 88
+      width: 133
+      height: 20
+    spriteID: 8f96ac0119ff90b4ca00315ba6673aa3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 88}
+  - name: PUnch DUde_Frame_44
+    originalName: 
+    pivot: {x: 0.67441857, y: -4.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 144
+      width: 86
+      height: 20
+    spriteID: 0a5146ff1c02cdf479c8ea04ac947409
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 144}
+  - name: PUnch DUde_Frame_45
+    originalName: 
+    pivot: {x: 0.4360902, y: -4.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 116
+      width: 133
+      height: 20
+    spriteID: cf1cf16242d19fe469d2179da24332d6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 116}
+  - name: PUnch DUde_Frame_46
+    originalName: 
+    pivot: {x: 0.4328358, y: -4.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 60
+      width: 134
+      height: 20
+    spriteID: b37d3342b9df79649b40899047d229b1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 60}
+  - name: PUnch DUde_Frame_47
+    originalName: 
+    pivot: {x: 0.42028984, y: -4.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 138
+      height: 20
+    spriteID: 72e0b9b0e99948448923382937414b93
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: PUnch DUde_Frame_48
+    originalName: 
+    pivot: {x: 0.42028984, y: -4.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 32
+      width: 138
+      height: 20
+    spriteID: f866006b16b5f734f962bd066c1b172d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 32}
+  - name: PUnch DUde_Frame_49
+    originalName: 
+    pivot: {x: 0.52631587, y: -5.294118}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 106
+      y: 281
+      width: 19
+      height: 17
+    spriteID: d38559b22c2427345ab2a074080a68cf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 106, y: 281}
+  - name: PUnch DUde_Frame_51
+    originalName: 
+    pivot: {x: 0.8055555, y: -4.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 94
+      y: 228
+      width: 72
+      height: 20
+    spriteID: 6a4c90147dd5a944b8a60c3a695b9487
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 94, y: 228}
+  - name: PUnch DUde_Frame_52
+    originalName: 
+    pivot: {x: 0.8169013, y: -4.55}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 174
+      y: 228
+      width: 71
+      height: 20
+    spriteID: 80512d6fff104f14daca9135fa3329d8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 174, y: 228}
+  - name: PUnch DUde_Frame_53
+    originalName: 
+    pivot: {x: 0.6823529, y: -4.55}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 172
+      width: 85
+      height: 20
+    spriteID: 332c7e8f5f8aedb47b69350f109c9803
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 172}
+  - name: PUnch DUde_Frame_54
+    originalName: 
+    pivot: {x: 0.65168536, y: -4.55}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 145
+      y: 88
+      width: 89
+      height: 20
+    spriteID: 2b2b04f86061b5e459fe7cb216644d4c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 145, y: 88}
+  - name: PUnch DUde_Frame_55
+    originalName: 
+    pivot: {x: 0.61702126, y: -4.55}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 146
+      y: 60
+      width: 94
+      height: 20
+    spriteID: 52044be093a2ca14888608d77e9814ee
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 146, y: 60}
+  - name: PUnch DUde_Frame_56
+    originalName: 
+    pivot: {x: -1.4375002, y: -4.6}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 236
+      y: 172
+      width: 16
+      height: 20
+    spriteID: ac88d59f2362df7409ae9fff3fb70539
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 236, y: 172}
+  - name: PUnch DUde_Frame_57
+    originalName: 
+    pivot: {x: -1.3888887, y: -4.736842}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 30
+      y: 395
+      width: 18
+      height: 19
+    spriteID: c2810b2df27494046905ab6ac4ba7d89
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 30, y: 395}
+  - name: PUnch DUde_Frame_58
+    originalName: 
+    pivot: {x: -1.3888887, y: -4.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 30
+      y: 367
+      width: 18
+      height: 20
+    spriteID: 45d4fbccff4e301478870dd7181eac23
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 30, y: 367}
+  - name: PUnch DUde_Frame_59
+    originalName: 
+    pivot: {x: -1.3888887, y: -4.2857146}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 56
+      y: 338
+      width: 18
+      height: 21
+    spriteID: b2e4fb86f0eeaca48a47ef67dc064bdd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 56, y: 338}
+  - name: PUnch DUde_Frame_60
+    originalName: 
+    pivot: {x: -1.3888887, y: -4.2857146}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 82
+      y: 338
+      width: 18
+      height: 21
+    spriteID: dbdb1ec075641ff4887787fc1adc74b7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 82, y: 338}
+  - name: PUnch DUde_Frame_61
+    originalName: 
+    pivot: {x: -1.3888887, y: -4.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 56
+      y: 367
+      width: 18
+      height: 20
+    spriteID: e6b139df7bcba1448823c3a4e238f2a3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 56, y: 367}
+  - name: PUnch DUde_Frame_62
+    originalName: 
+    pivot: {x: -1.3888887, y: -4.736842}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 56
+      y: 395
+      width: 18
+      height: 19
+    spriteID: 2e9ed74ba4fe5bb4abc629460a641879
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 56, y: 395}
+  - name: PUnch DUde_Frame_63
+    originalName: 
+    pivot: {x: -1.3888887, y: -4.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 82
+      y: 367
+      width: 18
+      height: 20
+    spriteID: 08592dfc1101dcb4aab8328ba5ca29fc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 82, y: 367}
+  - name: PUnch DUde_Frame_64
+    originalName: 
+    pivot: {x: -1.3888887, y: -4.2857146}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 108
+      y: 338
+      width: 18
+      height: 21
+    spriteID: 0deff33ae402f2e48aa654508a2e4508
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 108, y: 338}
+  - name: PUnch DUde_Frame_65
+    originalName: 
+    pivot: {x: -1.3888887, y: -4.2857146}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 134
+      y: 338
+      width: 18
+      height: 21
+    spriteID: 14ecbb8020e909f419deef2132362e90
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 134, y: 338}
+  - name: PUnch DUde_Frame_66
+    originalName: 
+    pivot: {x: -1.3888887, y: -4.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 108
+      y: 367
+      width: 18
+      height: 20
+    spriteID: 0a8df8eb25fce2b4eb538b2f78793b15
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 108, y: 367}
+  - name: PUnch DUde_Frame_67
+    originalName: 
+    pivot: {x: -1.3888887, y: -4.736842}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 82
+      y: 395
+      width: 18
+      height: 19
+    spriteID: 23869f7d5bb5f4142b1a54a94c6334be
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 82, y: 395}
+  - name: PUnch DUde_Frame_68
+    originalName: 
+    pivot: {x: 0.5686274, y: -4.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 150
+      y: 4
+      width: 102
+      height: 20
+    spriteID: eabbb756d0e729743b4bc2e7e0f5c54a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 150, y: 4}
+  - name: PUnch DUde_Frame_69
+    originalName: 
+    pivot: {x: 0.5799999, y: -4.55}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 150
+      y: 32
+      width: 100
+      height: 20
+    spriteID: c39f756a88f833e439d6dacb5e0046d4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 150, y: 32}
+  - name: PUnch DUde_Frame_70
+    originalName: 
+    pivot: {x: 0.67441857, y: -4.55}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 98
+      y: 144
+      width: 86
+      height: 20
+    spriteID: f1e0f2c746309c348b476c92b86ce0e6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 98, y: 144}
+  - name: PUnch DUde_Frame_71
+    originalName: 
+    pivot: {x: 0.6904762, y: -4.55}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 200
+      width: 84
+      height: 20
+    spriteID: 153db8da99ae3824db085f2013e4dbe1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 200}
+  - name: PUnch DUde_Frame_72
+    originalName: 
+    pivot: {x: 0.6904762, y: -4.55}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 200
+      width: 84
+      height: 20
+    spriteID: 811ab70313024a748a4f491e37d11213
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 96, y: 200}
+  - name: PUnch DUde_Frame_73
+    originalName: 
+    pivot: {x: 0.25000012, y: -4.6}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 422
+      width: 16
+      height: 20
+    spriteID: cb9ba13741abf0a42ac9900ac9ce7247
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 422}
+  - name: PUnch DUde_Frame_74
+    originalName: 
+    pivot: {x: 0.44444436, y: -4.736842}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 108
+      y: 395
+      width: 18
+      height: 19
+    spriteID: 7a6797f23f0e6994c811cb9bcc67654c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 108, y: 395}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: -842698662
+    name: PUnch DUde
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: PUnch DUde_Frame_17
+      frameIndex: 17
+      cellRect:
+        x: 86
+        y: 90
+        width: 37
+        height: 17
+      spriteId: 4092bef3baf56b24e96d6ed141a4ff1b
+    - name: PUnch DUde_Frame_18
+      frameIndex: 18
+      cellRect:
+        x: 86
+        y: 90
+        width: 39
+        height: 17
+      spriteId: 8c887734d78b0504884bb4efe720f4e4
+    - name: PUnch DUde_Frame_20
+      frameIndex: 20
+      cellRect:
+        x: 86
+        y: 92
+        width: 18
+        height: 22
+      spriteId: 598e235808c92ac46a9e29a4fac6df3d
+    - name: PUnch DUde_Frame_21
+      frameIndex: 21
+      cellRect:
+        x: 86
+        y: 92
+        width: 18
+        height: 23
+      spriteId: ccf3baaa5c6686f4589d2aa869838ec6
+    - name: PUnch DUde_Frame_50
+      frameIndex: 50
+      cellRect:
+        x: 86
+        y: 90
+        width: 39
+        height: 17
+      spriteId: 10004230e8edff142a02714375024645
+    - name: PUnch DUde_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 86
+        y: 90
+        width: 18
+        height: 20
+      spriteId: 8af909d7aa6e3be4882bc9cc24e2721f
+    - name: PUnch DUde_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 86
+        y: 90
+        width: 18
+        height: 21
+      spriteId: 99f5ae8ba395b894992ce847ecd192b6
+    - name: PUnch DUde_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 86
+        y: 90
+        width: 18
+        height: 21
+      spriteId: d52f39e8a01ac1a4c94370d34b2d2e7f
+    - name: PUnch DUde_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 86
+        y: 90
+        width: 18
+        height: 20
+      spriteId: db7b86900c12297498aab709604b2a64
+    - name: PUnch DUde_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 86
+        y: 90
+        width: 18
+        height: 19
+      spriteId: dbcad7131fcabbb468acba90264d8a3a
+    - name: PUnch DUde_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 86
+        y: 90
+        width: 18
+        height: 18
+      spriteId: 35aa8a7eb640fa141b776689c2ab1c50
+    - name: PUnch DUde_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 86
+        y: 90
+        width: 18
+        height: 22
+      spriteId: 55b7eea19165b3d4382eee1680578c4e
+    - name: PUnch DUde_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 86
+        y: 90
+        width: 18
+        height: 22
+      spriteId: ac711883289e1de45a2d25d69ba918a8
+    - name: PUnch DUde_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 86
+        y: 91
+        width: 18
+        height: 20
+      spriteId: d8eb7f3d0499f964eab417ad1f79702d
+    - name: PUnch DUde_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 86
+        y: 90
+        width: 18
+        height: 18
+      spriteId: 7485cae233153d24dab4cd6fc262cccd
+    - name: PUnch DUde_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 86
+        y: 90
+        width: 18
+        height: 22
+      spriteId: e2511c673d724664c8a2e0399249011e
+    - name: PUnch DUde_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 86
+        y: 92
+        width: 18
+        height: 20
+      spriteId: 929c74d2c0b19f04482d0e776cf8657c
+    - name: PUnch DUde_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 86
+        y: 91
+        width: 18
+        height: 19
+      spriteId: f3cf0855569f43648a18be6419a67306
+    - name: PUnch DUde_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 86
+        y: 90
+        width: 18
+        height: 19
+      spriteId: 09bf86cf32a2c31448a79a0e3c716613
+    - name: PUnch DUde_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 38
+        y: 90
+        width: 82
+        height: 20
+      spriteId: 310e6bad8a475054780a0fe5c714e8cd
+    - name: PUnch DUde_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: 38
+        y: 90
+        width: 84
+        height: 20
+      spriteId: c6219c7f188f26a4aa0409728b2e1509
+    - name: PUnch DUde_Frame_16
+      frameIndex: 16
+      cellRect:
+        x: 38
+        y: 90
+        width: 86
+        height: 20
+      spriteId: c1779c5aa6c2fd8478e3ccad95770df8
+    - name: PUnch DUde_Frame_19
+      frameIndex: 19
+      cellRect:
+        x: 86
+        y: 90
+        width: 19
+        height: 17
+      spriteId: b572efb11af1627478485aa8212602f0
+    - name: PUnch DUde_Frame_22
+      frameIndex: 22
+      cellRect:
+        x: 86
+        y: 90
+        width: 20
+        height: 24
+      spriteId: 33f83a4111fc1e94da0c1805aa5e93ac
+    - name: PUnch DUde_Frame_23
+      frameIndex: 23
+      cellRect:
+        x: 86
+        y: 90
+        width: 18
+        height: 17
+      spriteId: 19a54136c8bff55419d0140d02432976
+    - name: PUnch DUde_Frame_24
+      frameIndex: 24
+      cellRect:
+        x: 86
+        y: 90
+        width: 18
+        height: 17
+      spriteId: 3a7e21efdaf4a9941aa91b2588850eff
+    - name: PUnch DUde_Frame_25
+      frameIndex: 25
+      cellRect:
+        x: 86
+        y: 90
+        width: 19
+        height: 17
+      spriteId: 0da208437c017314f9005765779331df
+    - name: PUnch DUde_Frame_26
+      frameIndex: 26
+      cellRect:
+        x: 86
+        y: 90
+        width: 18
+        height: 22
+      spriteId: dc72bdad28637af4092a99076b56b0ae
+    - name: PUnch DUde_Frame_27
+      frameIndex: 27
+      cellRect:
+        x: 86
+        y: 90
+        width: 17
+        height: 18
+      spriteId: 3da409d858ddbd6439292ac01d7b254d
+    - name: PUnch DUde_Frame_28
+      frameIndex: 28
+      cellRect:
+        x: 86
+        y: 90
+        width: 18
+        height: 19
+      spriteId: 885b4b6852c89b44abb204eba661abd2
+    - name: PUnch DUde_Frame_29
+      frameIndex: 29
+      cellRect:
+        x: 86
+        y: 90
+        width: 18
+        height: 20
+      spriteId: 0daff7d49a353d14485fccf1f464dfd9
+    - name: PUnch DUde_Frame_30
+      frameIndex: 30
+      cellRect:
+        x: 98
+        y: 102
+        width: 1
+        height: 1
+      spriteId: 71bf8fb2fbc6c39409dcd4912afaa09b
+    - name: PUnch DUde_Frame_31
+      frameIndex: 31
+      cellRect:
+        x: 86
+        y: 90
+        width: 18
+        height: 22
+      spriteId: b7d1243ac7e55204fb4436aa15921692
+    - name: PUnch DUde_Frame_32
+      frameIndex: 32
+      cellRect:
+        x: 86
+        y: 90
+        width: 18
+        height: 18
+      spriteId: 2b8090693940e3a41b9a508f29df8ef9
+    - name: PUnch DUde_Frame_33
+      frameIndex: 33
+      cellRect:
+        x: 86
+        y: 90
+        width: 18
+        height: 19
+      spriteId: 4b8d32bf06a6b7c4eb09d450b168980d
+    - name: PUnch DUde_Frame_34
+      frameIndex: 34
+      cellRect:
+        x: 86
+        y: 90
+        width: 18
+        height: 21
+      spriteId: e03c3c9e474d799469c044dadedd0e0b
+    - name: PUnch DUde_Frame_35
+      frameIndex: 35
+      cellRect:
+        x: 73
+        y: 90
+        width: 34
+        height: 17
+      spriteId: 3b959ec86990a3b4998c76771a7eaba1
+    - name: PUnch DUde_Frame_36
+      frameIndex: 36
+      cellRect:
+        x: 82
+        y: 90
+        width: 33
+        height: 17
+      spriteId: 4e1af5b4d1820044c947d95765291184
+    - name: PUnch DUde_Frame_37
+      frameIndex: 37
+      cellRect:
+        x: 83
+        y: 90
+        width: 31
+        height: 17
+      spriteId: 87326eb638b6bf749b43a90f8a620ef9
+    - name: PUnch DUde_Frame_38
+      frameIndex: 38
+      cellRect:
+        x: 82
+        y: 90
+        width: 31
+        height: 17
+      spriteId: afc0ec2bb8b872144b8284967275b550
+    - name: PUnch DUde_Frame_39
+      frameIndex: 39
+      cellRect:
+        x: 83
+        y: 90
+        width: 28
+        height: 17
+      spriteId: d26e23500c10d774f895154d10329c2e
+    - name: PUnch DUde_Frame_40
+      frameIndex: 40
+      cellRect:
+        x: 76
+        y: 90
+        width: 31
+        height: 17
+      spriteId: ef9804cfc08cfae4f8ddcce99ee6dc6c
+    - name: PUnch DUde_Frame_41
+      frameIndex: 41
+      cellRect:
+        x: 75
+        y: 90
+        width: 32
+        height: 17
+      spriteId: d0ca4cb256d95eb4faeac7a0288bcacd
+    - name: PUnch DUde_Frame_42
+      frameIndex: 42
+      cellRect:
+        x: 74
+        y: 90
+        width: 32
+        height: 17
+      spriteId: c7572d106c5dce2468405ef778f7a10e
+    - name: PUnch DUde_Frame_43
+      frameIndex: 43
+      cellRect:
+        x: 38
+        y: 90
+        width: 133
+        height: 20
+      spriteId: 8f96ac0119ff90b4ca00315ba6673aa3
+    - name: PUnch DUde_Frame_44
+      frameIndex: 44
+      cellRect:
+        x: 38
+        y: 90
+        width: 86
+        height: 20
+      spriteId: 0a5146ff1c02cdf479c8ea04ac947409
+    - name: PUnch DUde_Frame_45
+      frameIndex: 45
+      cellRect:
+        x: 38
+        y: 90
+        width: 133
+        height: 20
+      spriteId: cf1cf16242d19fe469d2179da24332d6
+    - name: PUnch DUde_Frame_46
+      frameIndex: 46
+      cellRect:
+        x: 38
+        y: 90
+        width: 134
+        height: 20
+      spriteId: b37d3342b9df79649b40899047d229b1
+    - name: PUnch DUde_Frame_47
+      frameIndex: 47
+      cellRect:
+        x: 38
+        y: 90
+        width: 138
+        height: 20
+      spriteId: 72e0b9b0e99948448923382937414b93
+    - name: PUnch DUde_Frame_48
+      frameIndex: 48
+      cellRect:
+        x: 38
+        y: 90
+        width: 138
+        height: 20
+      spriteId: f866006b16b5f734f962bd066c1b172d
+    - name: PUnch DUde_Frame_49
+      frameIndex: 49
+      cellRect:
+        x: 86
+        y: 90
+        width: 19
+        height: 17
+      spriteId: d38559b22c2427345ab2a074080a68cf
+    - name: PUnch DUde_Frame_51
+      frameIndex: 51
+      cellRect:
+        x: 38
+        y: 90
+        width: 72
+        height: 20
+      spriteId: 6a4c90147dd5a944b8a60c3a695b9487
+    - name: PUnch DUde_Frame_52
+      frameIndex: 52
+      cellRect:
+        x: 38
+        y: 91
+        width: 71
+        height: 20
+      spriteId: 80512d6fff104f14daca9135fa3329d8
+    - name: PUnch DUde_Frame_53
+      frameIndex: 53
+      cellRect:
+        x: 38
+        y: 91
+        width: 85
+        height: 20
+      spriteId: 332c7e8f5f8aedb47b69350f109c9803
+    - name: PUnch DUde_Frame_54
+      frameIndex: 54
+      cellRect:
+        x: 38
+        y: 91
+        width: 89
+        height: 20
+      spriteId: 2b2b04f86061b5e459fe7cb216644d4c
+    - name: PUnch DUde_Frame_55
+      frameIndex: 55
+      cellRect:
+        x: 38
+        y: 91
+        width: 94
+        height: 20
+      spriteId: 52044be093a2ca14888608d77e9814ee
+    - name: PUnch DUde_Frame_56
+      frameIndex: 56
+      cellRect:
+        x: 119
+        y: 92
+        width: 16
+        height: 20
+      spriteId: ac88d59f2362df7409ae9fff3fb70539
+    - name: PUnch DUde_Frame_57
+      frameIndex: 57
+      cellRect:
+        x: 121
+        y: 90
+        width: 18
+        height: 19
+      spriteId: c2810b2df27494046905ab6ac4ba7d89
+    - name: PUnch DUde_Frame_58
+      frameIndex: 58
+      cellRect:
+        x: 121
+        y: 90
+        width: 18
+        height: 20
+      spriteId: 45d4fbccff4e301478870dd7181eac23
+    - name: PUnch DUde_Frame_59
+      frameIndex: 59
+      cellRect:
+        x: 121
+        y: 90
+        width: 18
+        height: 21
+      spriteId: b2e4fb86f0eeaca48a47ef67dc064bdd
+    - name: PUnch DUde_Frame_60
+      frameIndex: 60
+      cellRect:
+        x: 121
+        y: 90
+        width: 18
+        height: 21
+      spriteId: dbdb1ec075641ff4887787fc1adc74b7
+    - name: PUnch DUde_Frame_61
+      frameIndex: 61
+      cellRect:
+        x: 121
+        y: 90
+        width: 18
+        height: 20
+      spriteId: e6b139df7bcba1448823c3a4e238f2a3
+    - name: PUnch DUde_Frame_62
+      frameIndex: 62
+      cellRect:
+        x: 121
+        y: 90
+        width: 18
+        height: 19
+      spriteId: 2e9ed74ba4fe5bb4abc629460a641879
+    - name: PUnch DUde_Frame_63
+      frameIndex: 63
+      cellRect:
+        x: 121
+        y: 90
+        width: 18
+        height: 20
+      spriteId: 08592dfc1101dcb4aab8328ba5ca29fc
+    - name: PUnch DUde_Frame_64
+      frameIndex: 64
+      cellRect:
+        x: 121
+        y: 90
+        width: 18
+        height: 21
+      spriteId: 0deff33ae402f2e48aa654508a2e4508
+    - name: PUnch DUde_Frame_65
+      frameIndex: 65
+      cellRect:
+        x: 121
+        y: 90
+        width: 18
+        height: 21
+      spriteId: 14ecbb8020e909f419deef2132362e90
+    - name: PUnch DUde_Frame_66
+      frameIndex: 66
+      cellRect:
+        x: 121
+        y: 90
+        width: 18
+        height: 20
+      spriteId: 0a8df8eb25fce2b4eb538b2f78793b15
+    - name: PUnch DUde_Frame_67
+      frameIndex: 67
+      cellRect:
+        x: 121
+        y: 90
+        width: 18
+        height: 19
+      spriteId: 23869f7d5bb5f4142b1a54a94c6334be
+    - name: PUnch DUde_Frame_68
+      frameIndex: 68
+      cellRect:
+        x: 38
+        y: 90
+        width: 102
+        height: 20
+      spriteId: eabbb756d0e729743b4bc2e7e0f5c54a
+    - name: PUnch DUde_Frame_69
+      frameIndex: 69
+      cellRect:
+        x: 38
+        y: 91
+        width: 100
+        height: 20
+      spriteId: c39f756a88f833e439d6dacb5e0046d4
+    - name: PUnch DUde_Frame_70
+      frameIndex: 70
+      cellRect:
+        x: 38
+        y: 91
+        width: 86
+        height: 20
+      spriteId: f1e0f2c746309c348b476c92b86ce0e6
+    - name: PUnch DUde_Frame_71
+      frameIndex: 71
+      cellRect:
+        x: 38
+        y: 91
+        width: 84
+        height: 20
+      spriteId: 153db8da99ae3824db085f2013e4dbe1
+    - name: PUnch DUde_Frame_72
+      frameIndex: 72
+      cellRect:
+        x: 38
+        y: 91
+        width: 84
+        height: 20
+      spriteId: 811ab70313024a748a4f491e37d11213
+    - name: PUnch DUde_Frame_73
+      frameIndex: 73
+      cellRect:
+        x: 92
+        y: 92
+        width: 16
+        height: 20
+      spriteId: cb9ba13741abf0a42ac9900ac9ce7247
+    - name: PUnch DUde_Frame_74
+      frameIndex: 74
+      cellRect:
+        x: 88
+        y: 90
+        width: 18
+        height: 19
+      spriteId: 7a6797f23f0e6994c811cb9bcc67654c
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 192, y: 192}
