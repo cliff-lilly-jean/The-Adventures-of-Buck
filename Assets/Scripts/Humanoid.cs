@@ -11,6 +11,7 @@ public class Humanoid : MonoBehaviour
     [Header("Attributes")]
     private float _height;
     private float _weight;
-    private float _stamina;
+    // private Stamina _stamina; // todo: create Stamina class
+    // private Health _health; //todo: create Health class
 
 }
