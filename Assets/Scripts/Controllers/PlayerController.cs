@@ -2,8 +2,10 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class PlayerController : MonoBehaviour, IWalk, IJump
+public class PlayerController : MonoBehaviour
 {
+
+    private Move _move;
 
     void Awake()
     {
@@ -21,15 +23,5 @@ public class PlayerController : MonoBehaviour, IWalk, IJump
     void Update()
     {
 
-    }
-
-    public void Walk()
-    {
-        // NA
-    }
-
-    public void Jump()
-    {
-        // NA
     }
 }
