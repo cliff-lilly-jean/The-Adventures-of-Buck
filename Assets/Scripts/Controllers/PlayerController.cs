@@ -1,15 +1,19 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.InputSystem;
 
 public class PlayerController : MonoBehaviour
 {
 
     private Move _move;
 
+    GameControls _gameControls;
+
     void Awake()
     {
+        // Initialize the input actions asset
+        _gameControls = new GameControls();
 
+        _gameControls.Movement.Jump.performed += OnJump;
     }
 
 
@@ -21,6 +25,12 @@ public class PlayerController : MonoBehaviour
 
     // Update is called once per frame
     void Update()
+    {
+
+    }
+
+    // Custom Methods
+    private void OnJump(InputAction.CallbackContext context)
     {
 
     }
