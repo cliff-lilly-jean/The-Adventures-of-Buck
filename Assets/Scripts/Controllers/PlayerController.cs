@@ -4,8 +4,6 @@ using UnityEngine.InputSystem;
 public class PlayerController : MonoBehaviour
 {
 
-    private Move _move;
-
     GameControls _gameControls;
 
     void Awake()
@@ -32,6 +30,6 @@ public class PlayerController : MonoBehaviour
     // Custom Methods
     private void OnJump(InputAction.CallbackContext context)
     {
-
+        Debug.Log(context);
     }
 }
