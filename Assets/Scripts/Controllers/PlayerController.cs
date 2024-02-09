@@ -32,4 +32,14 @@ public class PlayerController : MonoBehaviour
     {
         Debug.Log(context);
     }
+
+    private void OnEnable()
+    {
+        _gameControls.Enable();
+    }
+
+    private void OnDisable()
+    {
+        _gameControls.Disable();
+    }
 }
