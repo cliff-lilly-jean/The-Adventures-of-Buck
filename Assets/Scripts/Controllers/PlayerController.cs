@@ -10,4 +10,14 @@ public class PlayerController : MonoBehaviour
         _inputVector = context.ReadValue<Vector2>();
         Debug.Log(_inputVector);
     }
+
+    private void OnEnable()
+    {
+        _gameControls.Enable();
+    }
+
+    private void OnDisable()
+    {
+        _gameControls.Disable();
+    }
 }
