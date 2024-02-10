@@ -3,33 +3,11 @@ using UnityEngine.InputSystem;
 
 public class PlayerController : MonoBehaviour
 {
+    private Vector2 _inputVector;
 
-    GameControls _gameControls;
-
-    void Awake()
+    public void Move(InputAction.CallbackContext context)
     {
-        // Initialize the input actions asset
-        _gameControls = new GameControls();
-
-        _gameControls.Movement.Jump.performed += OnJump;
-    }
-
-
-    // Start is called before the first frame update
-    void Start()
-    {
-
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-
-    }
-
-    // Custom Methods
-    private void OnJump(InputAction.CallbackContext context)
-    {
-        Debug.Log(context);
+        _inputVector = context.ReadValue<Vector2>();
+        Debug.Log(_inputVector);
     }
 }
